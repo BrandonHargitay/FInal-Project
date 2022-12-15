@@ -37,7 +37,7 @@ void DrawStatistics::init() {
 }
 
 void DrawStatistics::displayTitle() {
-    font.loadFromFile("Drawables/Font/OpenSans-Bold.ttf");
+    font.loadFromFile("Poker-Analysis/Drawables/Font/OpenSans-Bold.ttf");
     title.setFont(font);
     title.setString("Poker Analysis");
     title.setPosition({700,60});

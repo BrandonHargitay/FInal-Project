@@ -31,10 +31,10 @@ std::string CardDrawable::rankToString() const {
 
 std::string CardDrawable::suitToString() const {
     switch (_suit) {
-        case HEARTS: return "Drawables/images/heart.png";
-        case DIAMONDS: return "Drawables/images/diamond.png";
-        case CLUBS: return "Drawables/images/club.png";
-        case SPADES: return "Drawables/images/spade.png";
+        case HEARTS: return "Poker-Analysis/Drawables/images/heart.png";
+        case DIAMONDS: return "Poker-Analysis/Drawables/images/diamond.png";
+        case CLUBS: return "Poker-Analysis/Drawables/images/club.png";
+        case SPADES: return "Poker-Analysis/Drawables/images/spade.png";
     }
 }
 
@@ -108,7 +108,7 @@ void CardDrawable::setupBackground() {
 }
 
 void CardDrawable::setupRank() {
-    if(!font.loadFromFile("Drawables/Font/OpenSans-Bold.ttf"))
+    if(!font.loadFromFile("Poker-Analysis/Drawables/Font/OpenSans-Bold.ttf"))
         exit(26);
     rank.setFont(font);
     rank2.setFont(font);
