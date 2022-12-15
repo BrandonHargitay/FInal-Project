@@ -7,7 +7,7 @@
 int main()
 {
     sf::Font font;
-    sf::RenderWindow window(sf::VideoMode(1200, 780), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(1080, 780), "SFML works!");
     sf::Text name;
     sf::Text crn;
     sf::Text classNum;
@@ -20,9 +20,9 @@ int main()
     crn.setString("CRN: 72623");
     classNum.setString("CS-003A");
 
-    name.setPosition(700,50);
-    crn.setPosition(700, 90);
-    classNum.setPosition(700, 130);
+    name.setPosition(800,30);
+    crn.setPosition(800, 70);
+    classNum.setPosition(800, 110);
 
     MainMenu m;
     while (window.isOpen())
@@ -35,7 +35,7 @@ int main()
             m.click(window);
         }
 
-        window.clear();
+        window.clear({111,121,133});
         window.draw(m);
         window.draw(name);
         window.draw(crn);

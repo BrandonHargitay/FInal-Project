@@ -11,7 +11,7 @@ std::string AppDetails::getAppSummary(AppsEnum app) {
     case PING_PONG:
         return "A fun game of ping-pong!";
     case TOP_HAT_GUY:
-        return "Drawing a snowman!";
+        return "Drawing a snowman! (Kinda)";
     case PLAYING_CARD:
         return "Drawing a playing card!";
     case POKER:

@@ -9,7 +9,7 @@
 GameSquare::GameSquare() {
     square.setSize(sf::Vector2f(200, 100));
     //square.setPosition(50,50);
-    square.setFillColor(sf::Color::Blue);
+    square.setFillColor({145,204,241});
     font.loadFromFile("Asteroids-Game/Fonts/Pixellari.ttf");
 
     sf::FloatRect squarePos = square.getGlobalBounds();
