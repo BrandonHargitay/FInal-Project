@@ -6,6 +6,7 @@
 #include "Asteroids_Game_Runner.h"
 #include "Ping_Pong_Game_Runner.h"
 #include "Top_Hat_Guy_Runner.h"
+#include "Poker_Analysis_Runner.h"
 int main()
 {
     //test
@@ -15,7 +16,7 @@ int main()
     Asteroids_Game_Runner Asteroid;
     Ping_Pong_Game_Runner ping;
     Top_Hat_Guy_Runner topHat;
-
+    Poker_Analysis_Runner poker;
     while (window.isOpen())
     {
         sf::Event event;
@@ -25,15 +26,15 @@ int main()
                 window.close();
             if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Space)){
                 Asteroid.run();
-                std::cout << "A";
             }
             if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num1)){
                 ping.run();
-                std::cout << "P";
             }
             if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num2)){
                 topHat.run();
-                std::cout << "P";
+            }
+            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num3)){
+                poker.run();
             }
         }
 
