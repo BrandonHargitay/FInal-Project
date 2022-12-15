@@ -1,10 +1,13 @@
-#include <iostream>
-#include "PlayingCard.h"
+//
+// Created by Brandon Hargitay on 12/14/22.
+//
 
-int main() {
-    sf::RenderWindow window({1920, 1080, 32},"Top Hat Guy");
+#include "Card_Runner.h"
+
+void Card_Runner::run() {
+    sf::RenderWindow window({1180, 1080, 32},"Top Hat Guy");
     window.setFramerateLimit(60);
-    Card c(SPADES, TEN);
+    PlayingCard c(SPADES, TEN);
     //Card c2(HEARTS, ACE);
     //c2.setPosition({500,30});
     while(window.isOpen())
@@ -14,6 +17,9 @@ int main() {
         {
             if(sf::Event::Closed == event.type)
                 window.close();
+            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Escape)){
+                window.close();
+            }
 //            switch (event.type) {
 //                case sf::Event::MouseButtonPressed:
 //                    std::cout << "Mouse has been clicked" << std::endl;
@@ -33,4 +39,5 @@ int main() {
         //window.draw(c2);
         window.display();
     }
+
 }

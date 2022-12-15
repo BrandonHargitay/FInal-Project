@@ -2,11 +2,11 @@
 // Created by Brandon Hargitay on 10/25/22.
 //
 
-#include "Card.h"
-sf::Texture Card::texture;
-sf::Font Card::font;
+#include "PlayingCard.h"
+sf::Texture PlayingCard::texture;
+sf::Font PlayingCard::font;
 
-std::string Card::rankToString() {
+std::string PlayingCard::rankToString() {
     switch (_rank) {
         case ACE: return  "A";
         case KING: return  "K";
@@ -24,26 +24,26 @@ std::string Card::rankToString() {
     }
 }
 
-std::string Card::suitToString() {
+std::string PlayingCard::suitToString() {
     switch (_suit) {
-        case HEARTS: return "images/heart.png";
-        case DIAMONDS: return "images/diamond.png";
-        case CLUBS: return "images/club.png";
-        case SPADES: return "images/spade.png";
+        case HEARTS: return "Card/images/heart.png";
+        case DIAMONDS: return "Card/images/diamond.png";
+        case CLUBS: return "Card/images/club.png";
+        case SPADES: return "Card/images/spade.png";
     }
 }
 
-Card::Card() : Card(HEARTS, ACE) {
+PlayingCard::PlayingCard() : PlayingCard(HEARTS, ACE) {
 
 }
 
 
-Card::Card(SuitENum suit, RankENum rank) : _suit(suit), _rank(rank) {
+PlayingCard::PlayingCard(SuitENum suit, RankENum rank) : _suit(suit), _rank(rank) {
     cardPosition = {0.f, 0.f};
     init();
 }
 
-void Card::draw(sf::RenderTarget& window, sf::RenderStates states) const {
+void PlayingCard::draw(sf::RenderTarget& window, sf::RenderStates states) const {
     states.transform = getTransform();
 
     window.draw(background, states);
@@ -51,19 +51,19 @@ void Card::draw(sf::RenderTarget& window, sf::RenderStates states) const {
     window.draw(rank, states);
     window.draw(rank2, states);
 }
-sf::FloatRect Card::getGlobalBounds(){
+sf::FloatRect PlayingCard::getGlobalBounds(){
     return background.getGlobalBounds();
 }
 
-void Card::setFillColor(const sf::Color &color) {
+void PlayingCard::setFillColor(const sf::Color &color) {
 
 }
 
-void Card::setSize(sf::Vector2f size) {
+void PlayingCard::setSize(sf::Vector2f size) {
 
 }
 
-void Card::setSize(float width, float height) {
+void PlayingCard::setSize(float width, float height) {
 
 }
 
@@ -73,36 +73,36 @@ void Card::setSize(float width, float height) {
 //
 //}
 
-void Card::setPosition(sf::Vector2f position) {
+void PlayingCard::setPosition(sf::Vector2f position) {
     sf::Transformable::setPosition(position);
 }
-void Card::setOrigin(float x, float y){
+void PlayingCard::setOrigin(float x, float y){
     background.setOrigin(x,y);
     suit.setOrigin(x,y);
     rank.setOrigin(x,y);
     rank2.setOrigin(x,y);
 }
-const sf::Vector2f Card::getOrigin() const{
+const sf::Vector2f PlayingCard::getOrigin() const{
     return background.getOrigin();
 }
-const sf::Vector2f Card::getPosition() const{
+const sf::Vector2f PlayingCard::getPosition() const{
     return background.getPosition();
 }
 
-void Card::init() {
+void PlayingCard::init() {
     setupBackground();
     setupRank();
     setupSuit();
 }
 
-void Card::setupBackground() {
+void PlayingCard::setupBackground() {
     background.setSize({150.f,270.f});
     background.setFillColor(sf::Color::White);
     background.setPosition(cardPosition);
 }
 
-void Card::setupRank() {
-    if(!font.loadFromFile("Font/OpenSans-Bold.ttf"))
+void PlayingCard::setupRank() {
+    if(!font.loadFromFile("Card/Font/OpenSans-Bold.ttf"))
         exit(26);
     rank.setFont(font);
     rank2.setFont(font);
@@ -128,7 +128,7 @@ void Card::setupRank() {
     }
 }
 
-void Card::setupSuit() {
+void PlayingCard::setupSuit() {
     if(!texture.loadFromFile(suitToString()))
         exit(21);
     suit.setTexture(texture);

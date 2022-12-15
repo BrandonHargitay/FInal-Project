@@ -49,128 +49,233 @@ build cmake_object_order_depends_target_Final_Project: phony || CMakeFiles/Final
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids-Game-Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Asteroids-Game-Runner.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids-Game-Runner.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Asteroids.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Bullet.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Bullet.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Bullet.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Fonts.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Fonts.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Fonts.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Health.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Health.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Health.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Heart.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Heart.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Heart.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Rocket.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Rocket.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Rocket.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/ScoreBoard2.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/ScoreBoard2.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/ScoreBoard2.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/SpaceshipGun.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/SpaceshipGun.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/SpaceshipGun.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/states.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/states.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/states.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Asteroids-Game/src/Texture.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Asteroids-Game/src/Texture.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Asteroids-Game/src/Texture.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Asteroids-Game/src
 
 build CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ball.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/src/ball.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ball.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src
 
 build CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/paddle.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/src/paddle.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/paddle.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src
 
 build CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ScoreBoard.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/src/ScoreBoard.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ScoreBoard.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Ping-Pong-Game/src
 
 build CMakeFiles/Final_Project.dir/Ping-Pong-Game/Ping_Pong_Game_Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/Ping_Pong_Game_Runner.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Ping-Pong-Game/Ping_Pong_Game_Runner.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Ping-Pong-Game
 
 build CMakeFiles/Final_Project.dir/Top-Hat-Guy/topHatGuy.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy/topHatGuy.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Top-Hat-Guy/topHatGuy.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Top-Hat-Guy
 
 build CMakeFiles/Final_Project.dir/main.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/main.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir
 
 build CMakeFiles/Final_Project.dir/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp || cmake_object_order_depends_target_Final_Project
   DEP_FILE = CMakeFiles/Final_Project.dir/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
-  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -isystem /opt/homebrew/include
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
   OBJECT_DIR = CMakeFiles/Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Top-Hat-Guy
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Card.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Card.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Card.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/CardHand.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/CardHand.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/CardHand.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/CardHandScorer.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/CardHandScorer.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/CardHandScorer.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Deck.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Deck.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Deck.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/PokerScore.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/PokerScore.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/PokerScore.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardDrawable.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Drawables/CardDrawable.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardDrawable.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardHandDrawable.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Drawables/CardHandDrawable.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardHandDrawable.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/DrawStatistics.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Drawables/DrawStatistics.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/DrawStatistics.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables
+
+build CMakeFiles/Final_Project.dir/Poker-Analysis/Poker_Analysis_Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Poker-Analysis/Poker_Analysis_Runner.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Poker-Analysis/Poker_Analysis_Runner.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Poker-Analysis
+
+build CMakeFiles/Final_Project.dir/Card/PlayingCard.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Card/PlayingCard.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Card/PlayingCard.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Card
+
+build CMakeFiles/Final_Project.dir/Card/Card_Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Card/Card_Runner.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Card/Card_Runner.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Card
+
+build CMakeFiles/Final_Project.dir/Green_Circle/Green_Circle_Runner.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/Green_Circle/Green_Circle_Runner.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/Green_Circle/Green_Circle_Runner.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir/Green_Circle
+
+build CMakeFiles/Final_Project.dir/GameSquare.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/GameSquare.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/GameSquare.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir
+
+build CMakeFiles/Final_Project.dir/MainMenu.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/MainMenu.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/MainMenu.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir
+
+build CMakeFiles/Final_Project.dir/AppDetails.cpp.o: CXX_COMPILER__Final_Project_Debug /Users/hargy/CLionProjects/Final_Project/AppDetails.cpp || cmake_object_order_depends_target_Final_Project
+  DEP_FILE = CMakeFiles/Final_Project.dir/AppDetails.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -std=gnu++14
+  INCLUDES = -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/Enums -I/Users/hargy/CLionProjects/Final_Project/Asteroids-Game/include -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game -I/Users/hargy/CLionProjects/Final_Project/Ping-Pong-Game/include -I/Users/hargy/CLionProjects/Final_Project/Top-Hat-Guy -I/Users/hargy/CLionProjects/Final_Project/Poker-Analysis -I/Users/hargy/CLionProjects/Final_Project/Card -I/Users/hargy/CLionProjects/Final_Project/Green_Circle -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles/Final_Project.dir
 
 
 # =============================================================================
@@ -180,7 +285,7 @@ build CMakeFiles/Final_Project.dir/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp.o: CXX_COM
 #############################################
 # Link the executable Final_Project
 
-build Final_Project: CXX_EXECUTABLE_LINKER__Final_Project_Debug CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids-Game-Runner.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Bullet.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Fonts.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Health.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Heart.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Rocket.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/ScoreBoard2.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/SpaceshipGun.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/states.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Texture.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ball.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/paddle.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ScoreBoard.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/Ping_Pong_Game_Runner.cpp.o CMakeFiles/Final_Project.dir/Top-Hat-Guy/topHatGuy.cpp.o CMakeFiles/Final_Project.dir/main.cpp.o CMakeFiles/Final_Project.dir/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
+build Final_Project: CXX_EXECUTABLE_LINKER__Final_Project_Debug CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids-Game-Runner.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Asteroids.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Bullet.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Fonts.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Health.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Heart.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Rocket.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/ScoreBoard2.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/SpaceshipGun.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/states.cpp.o CMakeFiles/Final_Project.dir/Asteroids-Game/src/Texture.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ball.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/paddle.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/src/ScoreBoard.cpp.o CMakeFiles/Final_Project.dir/Ping-Pong-Game/Ping_Pong_Game_Runner.cpp.o CMakeFiles/Final_Project.dir/Top-Hat-Guy/topHatGuy.cpp.o CMakeFiles/Final_Project.dir/main.cpp.o CMakeFiles/Final_Project.dir/Top-Hat-Guy/Top_Hat_Guy_Runner.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Card.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/CardHand.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/CardHandScorer.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Deck.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/PokerScore.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardDrawable.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/CardHandDrawable.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Drawables/DrawStatistics.cpp.o CMakeFiles/Final_Project.dir/Poker-Analysis/Poker_Analysis_Runner.cpp.o CMakeFiles/Final_Project.dir/Card/PlayingCard.cpp.o CMakeFiles/Final_Project.dir/Card/Card_Runner.cpp.o CMakeFiles/Final_Project.dir/Green_Circle/Green_Circle_Runner.cpp.o CMakeFiles/Final_Project.dir/GameSquare.cpp.o CMakeFiles/Final_Project.dir/MainMenu.cpp.o CMakeFiles/Final_Project.dir/AppDetails.cpp.o | /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib /opt/homebrew/lib/libsfml-audio.2.5.1.dylib /opt/homebrew/lib/libsfml-window.2.5.1.dylib /opt/homebrew/lib/libsfml-system.2.5.1.dylib
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6
   LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.2.5.1.dylib  /opt/homebrew/lib/libsfml-audio.2.5.1.dylib  /opt/homebrew/lib/libsfml-window.2.5.1.dylib  /opt/homebrew/lib/libsfml-system.2.5.1.dylib
   OBJECT_DIR = CMakeFiles/Final_Project.dir

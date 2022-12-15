@@ -10,7 +10,7 @@
 #include "RankENum.h"
 #include "SuitENum.h"
 
-class Card : public sf::Drawable, sf::Transformable{
+class PlayingCard : public sf::Drawable, sf::Transformable{
 private:
     sf::RectangleShape background;
     sf::Text rank;
@@ -28,8 +28,8 @@ private:
     void setupRank();
     void setupSuit();
 public:
-    Card();
-    Card(SuitENum suit, RankENum rank);
+    PlayingCard();
+    PlayingCard(SuitENum suit, RankENum rank);
     void setupBackground();
     void init();
     virtual void draw(sf::RenderTarget& window, sf::RenderStates states) const;

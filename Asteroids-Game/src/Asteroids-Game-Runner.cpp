@@ -9,7 +9,6 @@
 
 void Asteroids_Game_Runner::run() {
 
-    std::cout << "Test";
     srand((unsigned int)time(NULL));
     sf::RenderWindow window2(sf::VideoMode(1080, 1920), "test");
     sf::Sprite background;

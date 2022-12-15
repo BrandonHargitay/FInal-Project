@@ -5,7 +5,7 @@
 #include "Top_Hat_Guy_Runner.h"
 #include "topHatGuy.h"
 void Top_Hat_Guy_Runner::run() {
-    sf::RenderWindow window({1000,1000,32},"Card");
+    sf::RenderWindow window({1300,1000,32},"Card");
     window.setFramerateLimit(60);
     topHatGuy t;
     t.setPosition(459,459);

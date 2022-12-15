@@ -8,6 +8,9 @@ include_directories(Asteroids-Game/include)
 include_directories(Ping-Pong-Game)
 include_directories(Ping-Pong-Game/include)
 include_directories(Top-Hat-Guy)
+include_directories(Poker-Analysis)
+include_directories(Card)
+include_directories(Green_Circle)
 
 add_executable(Final_Project
         Asteroids-Game/Enums/fontsEnum.h
@@ -47,7 +50,33 @@ add_executable(Final_Project
         Top-Hat-Guy/topHatGuy.h
         main.cpp
         Top-Hat-Guy/Top_Hat_Guy_Runner.cpp
-        Top-Hat-Guy/Top_Hat_Guy_Runner.h)
+        Top-Hat-Guy/Top_Hat_Guy_Runner.h
+        Poker-Analysis/Card.cpp
+        Poker-Analysis/Card.h
+        Poker-Analysis/CardHand.cpp
+        Poker-Analysis/CardHand.h
+        Poker-Analysis/CardHandScorer.cpp
+        Poker-Analysis/CardHandScorer.h
+        Poker-Analysis/Deck.cpp
+        Poker-Analysis/Deck.h
+        Poker-Analysis/PokerScore.cpp
+        Poker-Analysis/PokerScore.h
+        Poker-Analysis/RankENum.h
+        Poker-Analysis/SuitENum.h
+        Poker-Analysis/Drawables/CardDrawable.cpp
+        Poker-Analysis/Drawables/CardDrawable.h
+        Poker-Analysis/Drawables/CardHandDrawable.cpp
+        Poker-Analysis/Drawables/CardHandDrawable.h
+        Poker-Analysis/Drawables/DrawStatistics.cpp
+        Poker-Analysis/Drawables/DrawStatistics.h
+        Poker-Analysis/Poker_Analysis_Runner.cpp
+        Poker-Analysis/Poker_Analysis_Runner.h
+        Card/PlayingCard.cpp
+        Card/PlayingCard.h
+        Card/Card_Runner.cpp
+        Card/Card_Runner.h
+        Green_Circle/Green_Circle_Runner.cpp
+        Green_Circle/Green_Circle_Runner.h GameSquare.cpp GameSquare.h AppsEnum.h MainMenu.cpp MainMenu.h AppDetails.cpp AppDetails.h)
 
 target_link_libraries(Final_Project sfml-graphics sfml-audio)
 find_package(SFML 2.5 COMPONENTS graphics audio REQUIRED)

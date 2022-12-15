@@ -60,6 +60,9 @@ void Poker_Analysis_Runner::run() {
         {
             if(sf::Event::Closed == event.type)
                 window.close();
+            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Escape)){
+                window.close();
+            }
         }
         //c.setPosition({0.f,0.f});
         window.clear(sf::Color(50,168,82));
