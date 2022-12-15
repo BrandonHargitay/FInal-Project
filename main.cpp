@@ -14,6 +14,7 @@ int main()
     Asteroids_Game_Runner Asteroid;
     Ping_Pong_Game_Runner ping;
     Top_Hat_Guy_Runner topHat;
+
     while (window.isOpen())
     {
         sf::Event event;
