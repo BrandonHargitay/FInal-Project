@@ -2,21 +2,29 @@
 // Created by Brandon Hargitay on 12/13/22.
 //
 #include <SFML/Graphics.hpp>
-#include <iostream>
-#include "Asteroids_Game_Runner.h"
-#include "Ping_Pong_Game_Runner.h"
-#include "Top_Hat_Guy_Runner.h"
-#include "Poker_Analysis_Runner.h"
+#include "MainMenu.h"
+
 int main()
 {
-    //test
-    sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
-    sf::CircleShape shape(100.f);
-    shape.setFillColor(sf::Color::Green);
-    Asteroids_Game_Runner Asteroid;
-    Ping_Pong_Game_Runner ping;
-    Top_Hat_Guy_Runner topHat;
-    Poker_Analysis_Runner poker;
+    sf::Font font;
+    sf::RenderWindow window(sf::VideoMode(1200, 780), "SFML works!");
+    sf::Text name;
+    sf::Text crn;
+    sf::Text classNum;
+    font.loadFromFile("Asteroids-Game/Fonts/Pixellari.ttf");
+    name.setFont(font);
+    crn.setFont(font);
+    classNum.setFont(font);
+
+    name.setString("Brandon Hargitay");
+    crn.setString("CRN: 72623");
+    classNum.setString("CS-003A");
+
+    name.setPosition(700,50);
+    crn.setPosition(700, 90);
+    classNum.setPosition(700, 130);
+
+    MainMenu m;
     while (window.isOpen())
     {
         sf::Event event;
@@ -24,22 +32,14 @@ int main()
         {
             if (event.type == sf::Event::Closed)
                 window.close();
-            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Space)){
-                Asteroid.run();
-            }
-            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num1)){
-                ping.run();
-            }
-            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num2)){
-                topHat.run();
-            }
-            if((event.type == sf::Event::KeyPressed) && (event.key.code == sf::Keyboard::Num3)){
-                poker.run();
-            }
+            m.click(window);
         }
 
         window.clear();
-        window.draw(shape);
+        window.draw(m);
+        window.draw(name);
+        window.draw(crn);
+        window.draw(classNum);
         window.display();
     }
 
